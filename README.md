@@ -27,7 +27,9 @@ wget https://cnzxo.github.io/tgz/tree-1.7.0.tgz
 * 文件解压
 ~~~
 tar -zxvf tree-1.7.0.tgz
+~~~
 * 打开解压好的文件夹
+~~~
 cd tree-1.7.0
 ~~~
 * 安装tree
