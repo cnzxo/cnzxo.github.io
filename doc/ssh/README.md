@@ -20,3 +20,5 @@ test@deat.cn's password:
 ~~~
 
 > 出现如下界面即登录成功，若登录失败请检查用户名或密码是否填写正确
+
+![登录成功](success.png)
