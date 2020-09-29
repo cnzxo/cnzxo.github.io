@@ -3,9 +3,9 @@
 
 > 欢迎使用志心软件有限公司Github云仓库！  
 
-> [官方网站](www.cnzxo.com)  
+> [官方网站](https://www.cnzxo.com)  
 
-> [仓库地址](http://cnzxo.github.io)  
+> [仓库地址](https://cnzxo.github.io)  
 
 
 
