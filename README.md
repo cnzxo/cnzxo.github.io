@@ -5,7 +5,7 @@
 
 > [官方网站](https://www.cnzxo.com)  
 
-> [仓库地址](https://cnzxo.github.io)  
+> [仓库地址](https://github.com/cnzxo)  
 
 
 
